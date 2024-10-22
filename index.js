@@ -85,8 +85,8 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-If you have any questions, please reach out to me at [${data.email}](mailto:${data.email}).
-You can also find more of my work at [GitHub](https://github.com/${data.github}).
+If you have any questions, please reach out to me via <a href="mailto:${data.email}">${data.email}</a>.  
+You can also find more of my work on <a href="https://github.com/${data.github}">GitHub</a>.
 `;
 
 // Function to write the README file
